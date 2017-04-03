@@ -45,6 +45,8 @@ Nous allons explorer pas à pas certains de ces comportements. Pour cela, il fau
    DEBUG: For more advanced debugging, install the Ember Inspector from https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi
    ```
 
+   *Note : cette information n'est pas présente dans la console de Firefox.*
+
 3. Entrer `Ember` dans la console
 
    La réponse doit être : 
